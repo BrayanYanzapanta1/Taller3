@@ -14,5 +14,7 @@ public class Ejemplo {
         System.out.println("hola");
 
         System.out.println("x2");
+        
+        System.out.println("mensaje nuevo");
     }
 }
